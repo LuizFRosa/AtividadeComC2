@@ -20,7 +20,7 @@ float nota4;
 	printf("Digite a quarta nota: ");
 	scanf("%f", &nota4);
 	
-	float media = nota1+nota2+nota3+nota4 /6;
+	float media = nota1+nota2+nota3+nota4 /4;
 	printf("Nota da media: %f", media);
 	
 return 0;
